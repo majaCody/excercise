@@ -1,3 +1,4 @@
 console.log('hello world!');
 
-const data = [];
+// i'd rather prefer this: 
+const data = {};
