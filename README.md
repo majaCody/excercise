@@ -1,2 +1,0 @@
-# excercise
-git excercise
